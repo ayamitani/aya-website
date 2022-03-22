@@ -1,0 +1,17 @@
+---
+title: "Aya Mitani"
+image: "aya-headshot.jpg"
+links:
+  - label: Faculty
+    url: "https://www.dlsph.utoronto.ca/faculty-profile/ayamitani/"
+  - label: Twitter
+    url: "https://twitter.com/mitani_aa"
+  - label: GitHub
+    url: "https://github.com/ayamitani"
+  - label: CV
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+---
+ 
+Assistant Professor of Biostatistics, University of Toronto
