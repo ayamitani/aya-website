@@ -1,0 +1,14 @@
+name: "."
+title: "Aya Mitani"
+description: |
+  my-distill
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Aya"              # add
+      href: aya.html           # add
+output: distill::distill_article
