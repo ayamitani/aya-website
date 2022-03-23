@@ -14,7 +14,7 @@ site: distill::distill_website
 ---
  
  
-## Bio
+## **Bio**
 
 I am Assistant Professor in the [Division of Biostatistics](https://www.dlsph.utoronto.ca/division/biostatistics/) at the [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/) at the University of Toronto. 
   
@@ -24,7 +24,7 @@ If you are a student and interested in working with me, please contact me by ema
 
 <br>
 
-## Education and Training
+## **Education and Training**
 
 
 * Postdoc, Harvard T. H. Chan School of Public Health
@@ -34,7 +34,7 @@ If you are a student and interested in working with me, please contact me by ema
 
 <br>
 
-## Health Data Working Group
+## **Health Data Working Group**
 
 In 2021, I co-founded the [Health Data Working Group](https://health-data-working-group.github.io/), an interdisciplinary working group with faculty, students, postdocs from various divisions at the DLSPH. We organize monthly workshops on data science topics. Materials from the past workshops are available [here](https://health-data-working-group.github.io/event/).
 
