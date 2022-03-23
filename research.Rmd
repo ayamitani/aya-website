@@ -1,0 +1,61 @@
+---
+title: "Research"
+description: |
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2    
+---
+
+## Research areas
+
+### Statistical methods for oral health research
+Oral health is essential for overall well-being, but did you know that oral diseases affect more than half of the people in the world? Despite the high prevalence of oral diseases and the many statistical challenges that arise from analyzing complex oral health data, methodological research motivated by these challenges are limited. I develop statistical methods and tools to answer oral health questions arising from complex multilevel data.
+
+### Biased sampling designs in complex surveys and observational studies
+To study the relationship between a disease and its risk factors, we collect information from a sample of individuals. This sample, ideally, should represent the population that we want to study. But when time and money are limited, the sample size must be small. To make meaningful inference about every person in the target study population, we need to purposefully oversample people from under-represented groups and correct for the sampling bias using proper statistical methods. I study the implications of using biased sampling designs under special circumstances.
+
+### Multiple imputation for missing data
+Multiple imputation (MI) is a common approach to handle missing data in observational and experimental studies. MI is straightforward to implement with cross-sectional data with no derived variables, such as interaction terms. But if I want to include an interaction effect in the analysis, and if one or both variables that make up the interaction are missing, how do I impute them? Do I impute the original variables and compute the interaction variable or do we impute the interaction directly? What if I have clustered or longitudinal data with missing outcomes? How do I incorporate the correlation between observations in the imputation model? These are the questions I try to answer.
+
+### Modeling agreement in cancer screening
+Radiologists read mammograms to screen for breast cancer but how consistent are the results between two radiologists, or three? Traditional agreement statistics -- like Cohen's Kappa -- lack the ability to measure agreement between many radiologists each reading many mammograms. A generalized linear mixed effects models (GLMM) can be used to compute a comprehensive summary measure of agreement (and association if the screening result is an ordinal score) between many radiologists' mammogram readings. I also authored an R package [`modelkappa`](https://github.com/ayamitani/modelkappa) to calculate GLMM-based agreement and association.
+
+## Selected publications
+
+*A complete list of my published works is available from my [Google scholar page](https://scholar.google.com/citations?user=cOahA4EAAAAJ&hl=en&oi=ao).*
+
+- **Mitani AA**, Kaye EK, Nelson KP. Accounting for tooth-loss using inverse probability censoring weights in longitudinal clustered data with informative cluster size. To appear in Annals of Applied Statistics.
+
+- **Mitani AA**, Mercaldo ND, Haneuse S, Schildcrout JS. Survey design and analysis considerations when utilizing misclassified sampling strata. BMC Medical Research Methodology. 2021; 21(145). [doi:10.1186/s12874-021-01332-8](https://doi.org/10.1186/s12874-021-01332-8)
+
+- **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in Biometrics. 2021; 77, 271–282. [doi:10.1111/biom.13241](https://doi.org/10.1111/biom.13241) 
+
+- **Mitani AA**, Haneuse S. Small data challenges of studying rare diseases. Invited Commentary. JAMA Network Open. 2020; 3(3). [ doi:10.1001/jamanetworkopen.2020.1965](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2763223)
+
+- **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of ordinal clustered longitudinal data with informative cluster size. Biometrics. 2019; 73(3), 938– 949. [doi:10.1111/biom.13050](https://doi.org/10.1111/biom.13050)
+
+- Nelson KP, **Mitani AA**, Edwards D. Evaluating the effects of rater and subject factors on measures of association Biomedical Journal. 2018; 60, 639–656. [doi:10.1002/bimj.201700078](https://doi.org/10.1002/bimj.201700078)
+
+- **Mitani AA**, Nelson KP. Modeling Agreement between Binary Classifications of Multiple Raters in R and SAS. Journal of Modern Applied Statistical Methods. 2017; 15. [doi]:10.22237/jmasm/1509495300](https://doi.org/10.22237/jmasm/1509495300)
+
+- **Mitani AA**, Freer PE, Nelson KP. Summary measures of agreement and association between many raters’ ordinal classifications. Annals of Epidemiology. 2017; 27(10). [doi:10.1016/j.annepidem.2017.09.001](https://doi.org/10.1016/j.annepidem.2017.09.001)
+
+- Nelson KP, **Mitani AA**, Edwards D. Assessing the influence of rater and subject characteristics on measures of agreement for ordinal ratings. Statistics in Medicine. 2017; 36(20), 3181–3199. [doi:10.1002/sim.7323](https://doi.org/10.1002/sim.7323)
+
+- Desai M, **Mitani AA**, Bryson S, Robinson T. Multiple imputation when rate of change is the outcome of interest. Journal of Modern Applied Statistical Methods. 2016; 15(1), Article 10. [doi:10.22237/jmasm/1462075740](https://doi.org/10.22237/jmasm/1462075740)
+
+- **Mitani AA**, Kurian AW, Das AK, Desai M. Navigating choices when applying multiple imputation in the presence of multi-level categorical interaction effects. Statistical Methodology. 2015; 27. [doi:10.1016/j.stamet.2015.06.001](https://doi.org/10.1016/j.stamet.2015.06.001)
+
+## R packages
+
+- [modelkappa](https://github.com/ayamitani/modelkappa): Calculates model-based kappa of agreement and association and their standard errors for multiple raters each assessing multiple cases
+- [CWGEE](https://github.com/ayamitani/CWGEE): Cluster-weighted generalized estimating equations for clustered longitudinal data with informative cluster size
+- [ipccwGEE](https://github.com/ayamitani/ipccwGEE): Solves the cluster-weighted generalized estimating equations with inverse probability censoring weights for correlated binary responses in clustered longitudinal data with informative cluster size and informative drop-out.
+
+
+
+
+
+
+

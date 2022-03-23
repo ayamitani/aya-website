@@ -1,0 +1,14 @@
+---
+title: "Teaching"
+description: |
+output:
+  distill::distill_article:
+    toc: false
+    toc_depth: 1    
+---
+
+## DLSPH
+
+* CHL5222: **Analysis of Correlated Data** (Winter 2021, 2022)
+* CHL5260: **Doctoral Seminar Series in Biostatistics** (Fall 2020, 2021, Winter 2021, 2022)
+* CHL7001: **Directed Reading: Introduction to Joint Modeling in Health Research** (Summer 2022)
