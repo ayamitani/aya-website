@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/ayamitani"
   - label: CV
-    url: ""
+    url: "aya-cv-2022-03-27.pdf"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -18,7 +18,7 @@ site: distill::distill_website
 
 I am an Assistant Professor in the [Division of Biostatistics](https://www.dlsph.utoronto.ca/division/biostatistics/) at the [Dalla Lana School of Public Health](https://www.dlsph.utoronto.ca/) at the University of Toronto. 
   
-My research has focused developing statistical methods to remove biases that emerge from informative cluster size, study design, missing data, or misclassification in multilevel observational studies and complex surveys. I have collaborated with researchers from various disciplines including oncology, nephrology, anesthesiology, and oral health.
+My research has focused on developing statistical methods to remove biases that emerge from informative cluster size, study design, missing data, or misclassification in multilevel observational studies and complex surveys. I have collaborated with researchers from various disciplines including oncology, nephrology, anesthesiology, and oral health.
   
 If you are a student and interested in working with me, please contact me by email at aya.mitani(at)utoronto.ca.
 
