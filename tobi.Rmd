@@ -1,7 +1,7 @@
 ---
 title: "Student opportunities"
 description: |
-  Last updated 2021-09-28.
+  Last updated 2022-04-02.
 output:
   distill::distill_article:
     toc: true
@@ -18,6 +18,7 @@ Many organizations and societies have annual paper competitions. Winners typical
 
 - [ASA Student Paper Competitions](https://www.amstat.org/ASA/Your-Career/Student-Paper-Competitions.aspx): Deadline is December 15. Submission details are specific for each section. 
 - [ENAR Distinguished Student Paper Awards](https://www.enar.org/meetings/StudentPaperAwards/): Deadline is October 1. 
+- [IMS Lawrence D. Brown Ph.D. Student Award](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/): Deadline is May 1. Eligible applicants will compete to be one of three speakers at an **invited session** as part of the JSM (which is in **Toronto** 2023!!!!). 
 
 
 ## Poster and presentation awards
