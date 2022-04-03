@@ -26,6 +26,7 @@ Radiologists read mammograms to screen for breast cancer but how consistent are 
 *A complete list of my published works is available from my [Google scholar page](https://scholar.google.com/citations?user=cOahA4EAAAAJ&hl=en&oi=ao).*
 
 - **Mitani AA**, Kaye EK, Nelson KP. Accounting for drop-out using inverse probability censoring weights in longitudinal clustered data with informative cluster size. Annals of Applied Statistics. 2022; 16(1), 596-611. [doi:10.1214/21-AOAS1518](https://doi.org/10.1214/21-AOAS1518) 
+
 - **Mitani AA**, Mercaldo ND, Haneuse S, Schildcrout JS. Survey design and analysis considerations when utilizing misclassified sampling strata. BMC Medical Research Methodology. 2021; 21(145). [doi:10.1186/s12874-021-01332-8](https://doi.org/10.1186/s12874-021-01332-8)
 
 - **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in Biometrics. 2021; 77, 271–282. [doi:10.1111/biom.13241](https://doi.org/10.1111/biom.13241) 
