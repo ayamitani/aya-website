@@ -25,8 +25,7 @@ Radiologists read mammograms to screen for breast cancer but how consistent are 
 
 *A complete list of my published works is available from my [Google scholar page](https://scholar.google.com/citations?user=cOahA4EAAAAJ&hl=en&oi=ao).*
 
-- **Mitani AA**, Kaye EK, Nelson KP. Accounting for tooth-loss using inverse probability censoring weights in longitudinal clustered data with informative cluster size. To appear in Annals of Applied Statistics.
-
+- **Mitani AA**, Kaye EK, Nelson KP. Accounting for drop-out using inverse probability censoring weights in longitudinal clustered data with informative cluster size. Annals of Applied Statistics. 2022; 16(1), 596-611. [doi:10.1214/21-AOAS1518](https://doi.org/10.1214/21-AOAS1518) 
 - **Mitani AA**, Mercaldo ND, Haneuse S, Schildcrout JS. Survey design and analysis considerations when utilizing misclassified sampling strata. BMC Medical Research Methodology. 2021; 21(145). [doi:10.1186/s12874-021-01332-8](https://doi.org/10.1186/s12874-021-01332-8)
 
 - **Mitani AA**, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in Biometrics. 2021; 77, 271–282. [doi:10.1111/biom.13241](https://doi.org/10.1111/biom.13241) 
@@ -37,7 +36,7 @@ Radiologists read mammograms to screen for breast cancer but how consistent are 
 
 - Nelson KP, **Mitani AA**, Edwards D. Evaluating the effects of rater and subject factors on measures of association Biomedical Journal. 2018; 60, 639–656. [doi:10.1002/bimj.201700078](https://doi.org/10.1002/bimj.201700078)
 
-- **Mitani AA**, Nelson KP. Modeling Agreement between Binary Classifications of Multiple Raters in R and SAS. Journal of Modern Applied Statistical Methods. 2017; 15. [doi]:10.22237/jmasm/1509495300](https://doi.org/10.22237/jmasm/1509495300)
+- **Mitani AA**, Nelson KP. Modeling Agreement between Binary Classifications of Multiple Raters in R and SAS. Journal of Modern Applied Statistical Methods. 2017; 15. [doi:10.22237/jmasm/1509495300](https://doi.org/10.22237/jmasm/1509495300)
 
 - **Mitani AA**, Freer PE, Nelson KP. Summary measures of agreement and association between many raters’ ordinal classifications. Annals of Epidemiology. 2017; 27(10). [doi:10.1016/j.annepidem.2017.09.001](https://doi.org/10.1016/j.annepidem.2017.09.001)
 
