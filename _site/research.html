@@ -2403,43 +2403,130 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="l-text toc figcaption" id="TOC">
 <h3>Contents</h3>
 <ul>
-<li><a href="#research-areas">Research areas</a></li>
-<li><a href="#selected-publications">Selected publications</a></li>
-<li><a href="#r-packages">R packages</a></li>
+<li><a href="#research-areas" id="toc-research-areas">Research
+areas</a></li>
+<li><a href="#selected-publications"
+id="toc-selected-publications">Selected publications</a></li>
+<li><a href="#r-packages" id="toc-r-packages">R packages</a></li>
 </ul>
 </nav>
 </div>
 <h2 id="research-areas">Research areas</h2>
-<h3 id="statistical-methods-for-oral-health-research">Statistical methods for oral health research</h3>
-<p>Oral health is essential for overall well-being, but did you know that oral diseases affect more than half of the people in the world? Despite the high prevalence of oral diseases and the many statistical challenges that arise from analyzing complex oral health data, methodological research motivated by these challenges are limited. I develop statistical methods and tools to answer oral health questions arising from complex multilevel data.</p>
-<h3 id="biased-sampling-designs-in-complex-surveys-and-observational-studies">Biased sampling designs in complex surveys and observational studies</h3>
-<p>To study the relationship between a disease and its risk factors, we collect information from a sample of individuals. This sample, ideally, should represent the population that we want to study. But when time and money are limited, the sample size must be small. To make meaningful inference about every person in the target study population, we need to purposefully oversample people from under-represented groups and correct for the sampling bias using proper statistical methods. I study the implications of using biased sampling designs under special circumstances.</p>
-<h3 id="multiple-imputation-for-missing-data">Multiple imputation for missing data</h3>
-<p>Multiple imputation (MI) is a common approach to handle missing data in observational and experimental studies. MI is straightforward to implement with cross-sectional data with no derived variables, such as interaction terms. But if I want to include an interaction effect in the analysis, and if one or both variables that make up the interaction are missing, how do I impute them? Do I impute the original variables and compute the interaction variable or do we impute the interaction directly? What if I have clustered or longitudinal data with missing outcomes? How do I incorporate the correlation between observations in the imputation model? These are the questions I try to answer.</p>
-<h3 id="modeling-agreement-in-cancer-screening">Modeling agreement in cancer screening</h3>
-<p>Radiologists read mammograms to screen for breast cancer but how consistent are the results between two radiologists, or three? Traditional agreement statistics – like Cohen’s Kappa – lack the ability to measure agreement between many radiologists each reading many mammograms. A generalized linear mixed effects models (GLMM) can be used to compute a comprehensive summary measure of agreement (and association if the screening result is an ordinal score) between many radiologists’ mammogram readings. I also authored an R package <a href="https://github.com/ayamitani/modelkappa"><code>modelkappa</code></a> to calculate GLMM-based agreement and association.</p>
+<h3 id="statistical-methods-for-oral-health-research">Statistical
+methods for oral health research</h3>
+<p>Oral health is essential for overall well-being, but did you know
+that oral diseases affect more than half of the people in the world?
+Despite the high prevalence of oral diseases and the many statistical
+challenges that arise from analyzing complex oral health data,
+methodological research motivated by these challenges are limited. I
+develop statistical methods and tools to answer oral health questions
+arising from complex multilevel data.</p>
+<h3
+id="biased-sampling-designs-in-complex-surveys-and-observational-studies">Biased
+sampling designs in complex surveys and observational studies</h3>
+<p>To study the relationship between a disease and its risk factors, we
+collect information from a sample of individuals. This sample, ideally,
+should represent the population that we want to study. But when time and
+money are limited, the sample size must be small. To make meaningful
+inference about every person in the target study population, we need to
+purposefully oversample people from under-represented groups and correct
+for the sampling bias using proper statistical methods. I study the
+implications of using biased sampling designs under special
+circumstances.</p>
+<h3 id="multiple-imputation-for-missing-data">Multiple imputation for
+missing data</h3>
+<p>Multiple imputation (MI) is a common approach to handle missing data
+in observational and experimental studies. MI is straightforward to
+implement with cross-sectional data with no derived variables, such as
+interaction terms. But if I want to include an interaction effect in the
+analysis, and if one or both variables that make up the interaction are
+missing, how do I impute them? Do I impute the original variables and
+compute the interaction variable or do we impute the interaction
+directly? What if I have clustered or longitudinal data with missing
+outcomes? How do I incorporate the correlation between observations in
+the imputation model? These are the questions I try to answer.</p>
+<h3 id="modeling-agreement-in-cancer-screening">Modeling agreement in
+cancer screening</h3>
+<p>Radiologists read mammograms to screen for breast cancer but how
+consistent are the results between two radiologists, or three?
+Traditional agreement statistics – like Cohen’s Kappa – lack the ability
+to measure agreement between many radiologists each reading many
+mammograms. A generalized linear mixed effects models (GLMM) can be used
+to compute a comprehensive summary measure of agreement (and association
+if the screening result is an ordinal score) between many radiologists’
+mammogram readings. I also authored an R package <a
+href="https://github.com/ayamitani/modelkappa"><code>modelkappa</code></a>
+to calculate GLMM-based agreement and association.</p>
 <h2 id="selected-publications">Selected publications</h2>
-<p><em>A complete list of my published works is available from my <a href="https://scholar.google.com/citations?user=cOahA4EAAAAJ&amp;hl=en&amp;oi=ao">Google scholar page</a>.</em></p>
+<p><em>A complete list of my published works is available from my <a
+href="https://scholar.google.com/citations?user=cOahA4EAAAAJ&amp;hl=en&amp;oi=ao">Google
+scholar page</a>.</em></p>
 <ul>
-<li><p><strong>Mitani AA</strong>, Kaye EK, Nelson KP. Accounting for drop-out using inverse probability censoring weights in longitudinal clustered data with informative cluster size. Annals of Applied Statistics. 2022; 16(1), 596-611. <a href="https://doi.org/10.1214/21-AOAS1518">doi:10.1214/21-AOAS1518</a></p></li>
-<li><p><strong>Mitani AA</strong>, Mercaldo ND, Haneuse S, Schildcrout JS. Survey design and analysis considerations when utilizing misclassified sampling strata. BMC Medical Research Methodology. 2021; 21(145). <a href="https://doi.org/10.1186/s12874-021-01332-8">doi:10.1186/s12874-021-01332-8</a></p></li>
-<li><p><strong>Mitani AA</strong>, Kaye EK, Nelson KP. Marginal analysis of multiple outcomes with informative cluster size. To appear in Biometrics. 2021; 77, 271–282. <a href="https://doi.org/10.1111/biom.13241">doi:10.1111/biom.13241</a></p></li>
-<li><p><strong>Mitani AA</strong>, Haneuse S. Small data challenges of studying rare diseases. Invited Commentary. JAMA Network Open. 2020; 3(3). <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2763223">doi:10.1001/jamanetworkopen.2020.1965</a></p></li>
-<li><p><strong>Mitani AA</strong>, Kaye EK, Nelson KP. Marginal analysis of ordinal clustered longitudinal data with informative cluster size. Biometrics. 2019; 73(3), 938– 949. <a href="https://doi.org/10.1111/biom.13050">doi:10.1111/biom.13050</a></p></li>
-<li><p>Nelson KP, <strong>Mitani AA</strong>, Edwards D. Evaluating the effects of rater and subject factors on measures of association Biomedical Journal. 2018; 60, 639–656. <a href="https://doi.org/10.1002/bimj.201700078">doi:10.1002/bimj.201700078</a></p></li>
-<li><p><strong>Mitani AA</strong>, Nelson KP. Modeling Agreement between Binary Classifications of Multiple Raters in R and SAS. Journal of Modern Applied Statistical Methods. 2017; 15. <a href="https://doi.org/10.22237/jmasm/1509495300">doi:10.22237/jmasm/1509495300</a></p></li>
-<li><p><strong>Mitani AA</strong>, Freer PE, Nelson KP. Summary measures of agreement and association between many raters’ ordinal classifications. Annals of Epidemiology. 2017; 27(10). <a href="https://doi.org/10.1016/j.annepidem.2017.09.001">doi:10.1016/j.annepidem.2017.09.001</a></p></li>
-<li><p>Nelson KP, <strong>Mitani AA</strong>, Edwards D. Assessing the influence of rater and subject characteristics on measures of agreement for ordinal ratings. Statistics in Medicine. 2017; 36(20), 3181–3199. <a href="https://doi.org/10.1002/sim.7323">doi:10.1002/sim.7323</a></p></li>
-<li><p>Desai M, <strong>Mitani AA</strong>, Bryson S, Robinson T. Multiple imputation when rate of change is the outcome of interest. Journal of Modern Applied Statistical Methods. 2016; 15(1), Article 10. <a href="https://doi.org/10.22237/jmasm/1462075740">doi:10.22237/jmasm/1462075740</a></p></li>
-<li><p><strong>Mitani AA</strong>, Kurian AW, Das AK, Desai M. Navigating choices when applying multiple imputation in the presence of multi-level categorical interaction effects. Statistical Methodology. 2015; 27. <a href="https://doi.org/10.1016/j.stamet.2015.06.001">doi:10.1016/j.stamet.2015.06.001</a></p></li>
+<li><p><strong>Mitani AA</strong>, Kaye EK, Nelson KP. Accounting for
+drop-out using inverse probability censoring weights in longitudinal
+clustered data with informative cluster size. Annals of Applied
+Statistics. 2022; 16(1), 596-611. <a
+href="https://doi.org/10.1214/21-AOAS1518">doi:10.1214/21-AOAS1518</a></p></li>
+<li><p><strong>Mitani AA</strong>, Mercaldo ND, Haneuse S, Schildcrout
+JS. Survey design and analysis considerations when utilizing
+misclassified sampling strata. BMC Medical Research Methodology. 2021;
+21(145). <a
+href="https://doi.org/10.1186/s12874-021-01332-8">doi:10.1186/s12874-021-01332-8</a></p></li>
+<li><p><strong>Mitani AA</strong>, Kaye EK, Nelson KP. Marginal analysis
+of multiple outcomes with informative cluster size. To appear in
+Biometrics. 2021; 77, 271–282. <a
+href="https://doi.org/10.1111/biom.13241">doi:10.1111/biom.13241</a></p></li>
+<li><p><strong>Mitani AA</strong>, Haneuse S. Small data challenges of
+studying rare diseases. Invited Commentary. JAMA Network Open. 2020;
+3(3). <a
+href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2763223">doi:10.1001/jamanetworkopen.2020.1965</a></p></li>
+<li><p><strong>Mitani AA</strong>, Kaye EK, Nelson KP. Marginal analysis
+of ordinal clustered longitudinal data with informative cluster size.
+Biometrics. 2019; 73(3), 938– 949. <a
+href="https://doi.org/10.1111/biom.13050">doi:10.1111/biom.13050</a></p></li>
+<li><p>Nelson KP, <strong>Mitani AA</strong>, Edwards D. Evaluating the
+effects of rater and subject factors on measures of association
+Biomedical Journal. 2018; 60, 639–656. <a
+href="https://doi.org/10.1002/bimj.201700078">doi:10.1002/bimj.201700078</a></p></li>
+<li><p><strong>Mitani AA</strong>, Nelson KP. Modeling Agreement between
+Binary Classifications of Multiple Raters in R and SAS. Journal of
+Modern Applied Statistical Methods. 2017; 15. <a
+href="https://doi.org/10.22237/jmasm/1509495300">doi:10.22237/jmasm/1509495300</a></p></li>
+<li><p><strong>Mitani AA</strong>, Freer PE, Nelson KP. Summary measures
+of agreement and association between many raters’ ordinal
+classifications. Annals of Epidemiology. 2017; 27(10). <a
+href="https://doi.org/10.1016/j.annepidem.2017.09.001">doi:10.1016/j.annepidem.2017.09.001</a></p></li>
+<li><p>Nelson KP, <strong>Mitani AA</strong>, Edwards D. Assessing the
+influence of rater and subject characteristics on measures of agreement
+for ordinal ratings. Statistics in Medicine. 2017; 36(20), 3181–3199. <a
+href="https://doi.org/10.1002/sim.7323">doi:10.1002/sim.7323</a></p></li>
+<li><p>Desai M, <strong>Mitani AA</strong>, Bryson S, Robinson T.
+Multiple imputation when rate of change is the outcome of interest.
+Journal of Modern Applied Statistical Methods. 2016; 15(1), Article 10.
+<a
+href="https://doi.org/10.22237/jmasm/1462075740">doi:10.22237/jmasm/1462075740</a></p></li>
+<li><p><strong>Mitani AA</strong>, Kurian AW, Das AK, Desai M.
+Navigating choices when applying multiple imputation in the presence of
+multi-level categorical interaction effects. Statistical Methodology.
+2015; 27. <a
+href="https://doi.org/10.1016/j.stamet.2015.06.001">doi:10.1016/j.stamet.2015.06.001</a></p></li>
 </ul>
 <h2 id="r-packages">R packages</h2>
 <ul>
-<li><a href="https://github.com/ayamitani/modelkappa">modelkappa</a>: Calculates model-based kappa of agreement and association and their standard errors for multiple raters each assessing multiple cases</li>
-<li><a href="https://github.com/ayamitani/CWGEE">CWGEE</a>: Cluster-weighted generalized estimating equations for clustered longitudinal data with informative cluster size</li>
-<li><a href="https://github.com/ayamitani/ipccwGEE">ipccwGEE</a>: Solves the cluster-weighted generalized estimating equations with inverse probability censoring weights for correlated binary responses in clustered longitudinal data with informative cluster size and informative drop-out.</li>
+<li><a href="https://github.com/ayamitani/modelkappa">modelkappa</a>:
+Calculates model-based kappa of agreement and association and their
+standard errors for multiple raters each assessing multiple cases</li>
+<li><a href="https://github.com/ayamitani/CWGEE">CWGEE</a>:
+Cluster-weighted generalized estimating equations for clustered
+longitudinal data with informative cluster size</li>
+<li><a href="https://github.com/ayamitani/ipccwGEE">ipccwGEE</a>: Solves
+the cluster-weighted generalized estimating equations with inverse
+probability censoring weights for correlated binary responses in
+clustered longitudinal data with informative cluster size and
+informative drop-out.</li>
 </ul>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<div class="sourceCode" id="cb1"><pre
+class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
