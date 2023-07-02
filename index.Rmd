@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/ayamitani"
   - label: CV
-    url: "aya-cv-2022-08-25.pdf"
+    url: "aya-cv.pdf"
 output:
   postcards::trestles
 site: distill::distill_website
