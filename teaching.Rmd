@@ -9,6 +9,8 @@ output:
 
 ## DLSPH
 
-* CHL5222: **Analysis of Correlated Data** (Winter 2021, 2022, 2023)
-* CHL5260: **Doctoral Seminar Series in Biostatistics** (Fall 2020, 2021, 2022, Winter 2021, 2022, 2023)
-* CHL7001: **Directed Reading: Introduction to Joint Modeling in Health Research** (Summer 2022)
+* CHL5222: **Analysis of Correlated Data** (Winter 2021, 2022, 2023, 2024)
+* CHL5260: **Doctoral Seminar Series in Biostatistics** (Fall 2020, 2021, 2022, 2023, Winter 2021, 2022, 2023, 2024)
+* CHL7001: **Directed Reading: Introduction to Joint Modeling in Health Research** (Summer 2022, 2023)
+* CHL7001: **Directed Reading: Statistical Programming and Computation for Health Data** (Fall 2023)
+  + Syllabus available [here](syllabus_statprog.pdf)
