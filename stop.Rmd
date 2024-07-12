@@ -1,7 +1,7 @@
 ---
 title: "Student opportunities"
 description: |
-  Last updated 2022-04-02.
+  Last updated 2024-07-12.
 output:
   distill::distill_article:
     toc: true
@@ -31,7 +31,7 @@ If you are short on funding for travel, consider applying for one of the travel 
 
 - [IMS Hannan Graduate Student Travel Award](https://www.enar.org/meetings/StudentPaperAwards/): Deadline is February 1. Award amount is between USD 400 and USD 1000 per person. Open to Masters and PhD students. Travel to any IMS sponsored meetings, which include JSM and ENAR. 
 - [ASA Student and Early Career Travel Fund](https://www.amstat.org/ASA/Your-Career/Awards/Student-and-Early-Career-Travel-Fund.aspx): Deadline is at least three months before the conference start date. Open to undergraduate and graduate students enrolled in a statistics or data science program. Travel to any ASA sponsored meetings.
-- [CWS Travel Awards](https://cwstat.org/cws-travel-award/): Deadline varies. Open to early career professionals and PhD students in statistics or a related field. Travel to JSM.  
+- [CWS Travel Awards](https://cwstat.org/cws-travel-awards-2/): Deadline varies. Open to early career professionals and PhD students in statistics or a related field. Travel to JSM.  
 - [SPC Travel Scholarships](https://epiresearch.org/annual-meeting/awards/spc-travel-scholarships/): Deadline is September 30. Open to PhD students and postdocs. Travel to Society for Epidemiologic Research [Annual Meeting](https://epiresearch.org/annual-meeting/). 
 
 

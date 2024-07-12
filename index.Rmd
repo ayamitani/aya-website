@@ -2,8 +2,6 @@
 title: "Aya Mitani"
 image: "aya-headshot.jpg"
 links:
-  - label: Twitter
-    url: "https://twitter.com/mitani_aa"
   - label: GitHub
     url: "https://github.com/ayamitani"
   - label: CV

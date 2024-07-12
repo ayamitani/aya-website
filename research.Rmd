@@ -25,9 +25,13 @@ Radiologists read mammograms to screen for breast cancer but how consistent are 
 
 *A complete list of my published works is available from my [Google scholar page](https://scholar.google.com/citations?user=cOahA4EAAAAJ&hl=en&oi=ao).*
 
+- Feng SX and **Mitani AA**. Marginal clustered multistate models for longitudinal pro-
+gressive processes with informative cluster size. Statistical Analysis and Data Mining: The ASA Data
+Science Journal 17(2), 2024. [doi: 10.1002/sam.11668](https://doi.org/10.1002/sam.11668) 
+
 - **Mitani AA**, Feng X, and Kaye EK. Modeling time-varying risk factors of tooth loss: re-
-sults from joint model compared to extended Cox regression model. Accepted to Journal of Clinical
-Periodontology.
+sults from joint model compared to extended Cox regression model. Journal of Clinical
+Periodontology 51(2) pp. 110-117, 2024. [doi: 10.1111/jcpe.13888](https://doi.org/10.1111/jcpe.13888)
 
 - Dong M and **Mitani A**. Multiple imputation methods for missing multilevel ordinal outcomes.
 BMC Medical Research Methodology 23(112) pp. 938–949, 2023. [doi: 10.1186/s12874-023-01909-5](https://doi.org/10.1186/s12874-023-01909-5).

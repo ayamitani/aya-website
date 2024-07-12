@@ -9,9 +9,9 @@ output:
 
 ## DLSPH
 
-* CHL5222: **Analysis of Correlated Data** (Winter 2021, 2022, 2023, 2024)
+* CHL5222: **Analysis of Correlated Data** (Winter 2021, 2022, 2023, 2024, 2025)
 * CHL5260: **Doctoral Seminar Series in Biostatistics** (Fall 2020, 2021, 2022, 2023, Winter 2021, 2022, 2023, 2024)
 * CHL7001: **Directed Reading: Introduction to Joint Modeling in Health Research** (Summer 2022, 2023)
-* CHL7001: **Directed Reading: Statistical Programming and Computation for Health Data** (Fall 2023)
+* CHL7001: **Directed Reading: Statistical Programming and Computation for Health Data** (Fall 2023, 2024)
   + Syllabus available [here](syllabus_statprog.pdf)
-  + If you are a student in the Biostatistics MSc or PhD program and wish to enroll in this course for Fall 2023, please fill out this [form](ReadingCourse_AMitani.pdf) and email it to PHS Graduate Office (grad.dlsph at utoronto.ca), cc'ing me (aya.mitani at utoronto.ca). I will provide my approval via email. For students in other programs, please get in touch with me first.
+  + If you are a student in the Biostatistics MSc or PhD program and wish to enroll in this course for **Fall 2024**, please fill out this [form](ReadingCourse_AMitani.pdf) and email it to PHS Graduate Office (grad.dlsph at utoronto.ca), cc'ing me (aya.mitani at utoronto.ca). I will provide my approval via email. For students in other programs, please get in touch with me first.
