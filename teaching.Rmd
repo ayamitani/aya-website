@@ -14,5 +14,4 @@ output:
 * CHL7001: **Directed Reading: Introduction to Joint Modeling in Health Research** (Summer 2022, 2023)
 * CHL8010H F2: **Directed Reading: Statistical Programming and Computation for Health Data** (Fall 2023, 2024)
   + Syllabus available [here](syllabus_statprog.pdf)
-  + If you are a student in the Biostatistics MSc or PhD program and wish to enroll in this course for **Fall 2024**, please fill out this [form](ReadingCourse_AMitani.pdf) and email it to PHS Graduate Office (grad.dlsph at utoronto.ca), cc'ing me (aya.mitani at utoronto.ca). I will provide my approval via email upon my return after 2024 August 18. 
-  + For students in other programs, if you have sufficient prerequisites, follow the instructions above. Otherwise, please get in touch with me first.
+  + If you are a student outside of the Biostatistics program with sufficient prerequisites and wish to enroll in this course for **Fall 2024**, please fill out this [form](ReadingCourse_AMitani.pdf) and email it to PHS Graduate Office (grad.dlsph at utoronto.ca), cc'ing me (aya.mitani at utoronto.ca). I will provide my approval via email upon my return after 2024 August 18. 
